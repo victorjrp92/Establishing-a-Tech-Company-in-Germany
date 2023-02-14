@@ -28,4 +28,25 @@ Despite the fact that Berlin has the most tech companies, according to "companie
 
 ![munich](imagens/munich.png)
 #### **Now in Munich**
-I decided to use the Foursquare API while looking for the ideal location to establish our tech company in Munich. With this data, we can make an informed decision on the best location for our company, considering factors such as accessibility, proximity to talent, and growth potential.
+I decided to use the Foursquare API while looking for the ideal location to establish our tech company in Munich. With this data, we can make an informed decision on the best location for our company.
+
+
+To find the ideal location in Munich, we must consider four factors. Developers prefer to work near successful tech startups, 30% of the company's employees have at least one child, the CEO is vegan, and executives adore Starbucks.
+then To begin the search, I used Foursquare to generate a list of up to 50 options for each parameter.
+### **Tech companies**
+![1](imagens/1.png)
+
+### **Kinder gardens**
+![2](imagens/2.png)
+
+### **Vegan restaurants**
+![3](imagens/3.png)
+### **Startbucks**
+![4](imagens/4.png)
+
+
+**I then search for coworking spaces using Foursquare, evaluate their locations, and aim to select one that best fits my criteria.**
+![5](imagens/5.png)
+
+After gathering all of the necessary information, I began writing the code to generate the map that would assist me in making the best decision.
+which I will show you in Visual Studio.
